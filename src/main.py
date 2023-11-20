@@ -47,7 +47,7 @@ class App:
         self.found = False
 
         # Inicialização do Pyxel
-        pyxel.init(25, 25, fps=10)
+        pyxel.init(25, 25, fps=10, title = "Pontos mais proximos")
 
     def draw(self):
         # Limpa a tela e desenha os pontos
