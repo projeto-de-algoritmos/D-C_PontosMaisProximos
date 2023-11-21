@@ -1,11 +1,17 @@
 # D-C_PontosMaisProximos
 A finalidade do nosso projeto consiste em ilustrar de maneira visual o funcionamento do algoritmo de pontos mais próximos utilizando a biblioteca pyxel.
 
+## Foto
+![6f2cbd54-4212-4927-a872-05a9b6ea0ca3](https://github.com/projeto-de-algoritmos/D-C_PontosMaisProximos/assets/87709987/ce043080-ecb3-4d13-8b40-2ed8ce4a5993)
+
+# Vídeo
+Link do Vídeo: https://drive.google.com/file/d/1KMaBl2J_VxSw8OSVnl4WwD2DInwghQOy/view?usp=sharing 
+
 ## Alunos
 |Matrícula   | Aluno                            |
 | :----------: | :-------------------------------- |
 | 202016945  |  Maria Eduarda Dos Santos Abritta Ferreira |
-| -  |  Luciano   |
+| 202016847  |  Luciano de Freitas Melo   |
 
 **Linguagem**: Python
 
